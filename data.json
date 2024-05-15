@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "126.0.6478.2",
-        "size": 114150448,
-        "sha1": "f8ebf600e548e1a3a8794c81fa2fa7720e744ef4",
-        "sha256": "393937119f28240642f23751d804c57f0e2b839e1587bb7bcb0547b8853ebaaf",
+        "version": "126.0.6478.3",
+        "size": 114157616,
+        "sha1": "b10630a1cafe827434999a0325cd516a6daf0ee3",
+        "sha256": "41b4700f5c865d07c3053a3810637038d00240b151aeb0b63c207e5199df1e96",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/actu5737k4fq6riinzv7nyzttr6a_126.0.6478.2/126.0.6478.2_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/ey4mfyrbq4ps7vvbtkj3gr6b54_126.0.6478.3/126.0.6478.3_chrome_installer.exe"
         ]
     }
 }
