@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "127.0.6511.0",
-        "size": 114841648,
-        "sha1": "3c44ceb05043062a1af3cd19ad4b2be33b07c05a",
-        "sha256": "66f9bcd9811684d23fe35940f359e1bddc9fdc3ae4902ae502fbcd5920196882",
+        "version": "127.0.6511.1",
+        "size": 150444592,
+        "sha1": "ca4434354343104c0c7514a491709b54b4b40a74",
+        "sha256": "c5a9e7a908073ae982d89bf648ca7f1d7644398365469cb67fdb9b10248e4416",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acva2qqbej7cmervuputkq7w74ca_127.0.6511.0/127.0.6511.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/adm232xa6cqdf2ug57adibetsala_127.0.6511.1/127.0.6511.1_chrome_installer.exe"
         ]
     }
 }
