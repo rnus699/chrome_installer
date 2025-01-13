@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "134.0.6953.0",
-        "size": 119137136,
-        "sha1": "bdbacf7f031be5dfd71aa8a6aeb4975460d7cdf3",
-        "sha256": "0434708b1b07fa0bf87c24932cc37a84478c1d211b8cc640c1acdf272ad3b31e",
+        "version": "134.0.6953.1",
+        "size": 155793776,
+        "sha1": "a44c94ca1dd7b2048b10e3b180760b8e5a92b8e9",
+        "sha256": "a8b08792260c4637792e84fa494faf2dfb8f110df91c22bdcb8efac7c4f4c9ff",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acwccjdsjl67pmn574fx7pcy3m4q_134.0.6953.0/134.0.6953.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/i2s5qxmuod36cjunecwpq5kusm_134.0.6953.1/134.0.6953.1_chrome_installer.exe"
         ]
     }
 }
