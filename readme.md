@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2025-04-08 02:19:38 (UTC-4)
+2025-04-08 08:27:51 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ctiibye2xbfvdr553m3gemm6zu_137.0.7106.2/137.0.7106.2_chrome_installer.exe](https://dl.google.com/release2/chrome/ctiibye2xbfvdr553m3gemm6zu_137.0.7106.2/137.0.7106.2_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：137.0.7114.0  
-**文件大小**：104.17 MB  
-**校验值（Sha256）**：c3cb9aea268fb8955b89c1af8b18f36f62e774de4a7b923219ceae715d560bf2  
-**下载链接**：[https://dl.google.com/release2/chrome/ad2tx2u47mjmxw6vxym74vuhdxhq_137.0.7114.0/137.0.7114.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ad2tx2u47mjmxw6vxym74vuhdxhq_137.0.7114.0/137.0.7114.0_chrome_installer.exe)  
+**最新版本**：137.0.7115.0  
+**文件大小**：104.15 MB  
+**校验值（Sha256）**：8d05c04fad7c7d6154e9774540dcdb5f5a3dfed44019f0891794df880773b8ed  
+**下载链接**：[https://dl.google.com/release2/chrome/n6dpftkhuizva2c4qktd4qet7y_137.0.7115.0/137.0.7115.0_chrome_installer.exe](https://dl.google.com/release2/chrome/n6dpftkhuizva2c4qktd4qet7y_137.0.7115.0/137.0.7115.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：137.0.7114.1  
-**文件大小**：152.49 MB  
-**校验值（Sha256）**：8dabe43c92f7fe0d1d8329d3a8e5d6c9425a84855eacaa61d7f72ca69b468c25  
-**下载链接**：[https://dl.google.com/release2/chrome/addskbczykx5ldr45tzuxaw7mlyq_137.0.7114.1/137.0.7114.1_chrome_installer.exe](https://dl.google.com/release2/chrome/addskbczykx5ldr45tzuxaw7mlyq_137.0.7114.1/137.0.7114.1_chrome_installer.exe)  
+**最新版本**：137.0.7115.0  
+**文件大小**：116.42 MB  
+**校验值（Sha256）**：62d11b40003ac4ec2958132b99fafb3a2657fb58ee914f32ad51bbdc5885c313  
+**下载链接**：[https://dl.google.com/release2/chrome/aclevmvisvehofyov2lmfl2sahva_137.0.7115.0/137.0.7115.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aclevmvisvehofyov2lmfl2sahva_137.0.7115.0/137.0.7115.0_chrome_installer.exe)  
 
