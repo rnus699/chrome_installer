@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-23 02:23:13 (UTC-4)
+2025-06-23 08:31:25 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/cefiufctqup7ot7bijmemcw3ju_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cefiufctqup7ot7bijmemcw3ju_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7255.1  
-**文件大小**：496.73 MB  
-**校验值（Sha256）**：84877a735b688e3c0f854fd1d85f22a225f0625570f0a31b1297aa3b4976f4aa  
-**下载链接**：[https://dl.google.com/release2/chrome/jia6z5actxrh2zag4rre7x7omu_139.0.7255.1/139.0.7255.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jia6z5actxrh2zag4rre7x7omu_139.0.7255.1/139.0.7255.1_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7256.0  
+**文件大小**：334.6 MB  
+**校验值（Sha256）**：c92e84671372ac1e4766407c668a73855d5f72ab1941b81d6d8246037fa7f1d1  
+**下载链接**：[https://dl.google.com/release2/chrome/dos5uhefglhpra3ltvqvfjjqee_139.0.7256.0/139.0.7256.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dos5uhefglhpra3ltvqvfjjqee_139.0.7256.0/139.0.7256.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：139.0.7255.0  
-**文件大小**：407 MB  
-**校验值（Sha256）**：b5cd94d82d98d8614336208a99c2cc02808d8fcee19623aae9f46f9c3ac817ac  
-**下载链接**：[https://dl.google.com/release2/chrome/aibyn6oiuhovlmoe4cndoq44dm_139.0.7255.0/139.0.7255.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aibyn6oiuhovlmoe4cndoq44dm_139.0.7255.0/139.0.7255.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7256.0  
+**文件大小**：406.96 MB  
+**校验值（Sha256）**：1c121967ff8725d311baf9d907d343d9f27574a0e314874014cf817d4fee5ad9  
+**下载链接**：[https://dl.google.com/release2/chrome/ney33hqr5aqv7eko3aqa3fkwee_139.0.7256.0/139.0.7256.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ney33hqr5aqv7eko3aqa3fkwee_139.0.7256.0/139.0.7256.0_chrome_installer_uncompressed.exe)  
 
