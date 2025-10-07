@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2025-10-06 21:05:04 (UTC-4)
+2025-10-07 02:21:03 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ckbmout4ovcoov3zfwpihea4ym_143.0.7445.3/143.0.7445.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ckbmout4ovcoov3zfwpihea4ym_143.0.7445.3/143.0.7445.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：143.0.7455.1  
-**文件大小**：521.91 MB  
-**校验值（Sha256）**：9e17249356b48649c21d51042c20714ec33f76ee3806ce0407b024cefce1e90b  
-**下载链接**：[https://dl.google.com/release2/chrome/pg3l3pqbfd7w57ngi7rf3dn2my_143.0.7455.1/143.0.7455.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pg3l3pqbfd7w57ngi7rf3dn2my_143.0.7455.1/143.0.7455.1_chrome_installer_uncompressed.exe)  
+**最新版本**：143.0.7456.2  
+**文件大小**：348.46 MB  
+**校验值（Sha256）**：578549cda01f134db103210df12bafe954f3eb5ce35133340225e3857ede89ce  
+**下载链接**：[https://dl.google.com/release2/chrome/adezjmxynv7hhske5ykgibl6vplq_143.0.7456.2/143.0.7456.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adezjmxynv7hhske5ykgibl6vplq_143.0.7456.2/143.0.7456.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：143.0.7456.0  
+**最新版本**：143.0.7456.2  
 **文件大小**：421.74 MB  
-**校验值（Sha256）**：e960e1d2c36766938caf0b07ead7f9a7617f9ff5a2d344f83b1613c777527f27  
-**下载链接**：[https://dl.google.com/release2/chrome/adl2tys5ooqukjpfrujmrc2ixiha_143.0.7456.0/143.0.7456.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adl2tys5ooqukjpfrujmrc2ixiha_143.0.7456.0/143.0.7456.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：10ec60a57e3d2e2f205cb236f41044b836fafb489febac45b3902c7ca51aaf15  
+**下载链接**：[https://dl.google.com/release2/chrome/adamgryb5crpbtq6f2omsgx2wspq_143.0.7456.2/143.0.7456.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adamgryb5crpbtq6f2omsgx2wspq_143.0.7456.2/143.0.7456.2_chrome_installer_uncompressed.exe)  
 
