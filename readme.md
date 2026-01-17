@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-01-17 08:30:02 (UTC-4)
+2026-01-17 14:21:30 (UTC-4)
 
 
 ## 目录
