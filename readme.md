@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-02-20 08:45:35 (UTC-4)
+2026-02-20 14:38:17 (UTC-4)
 
 
 ## 目录
@@ -40,16 +40,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ackewru4a6gxhqczrjnzolzxesvq_146.0.7680.16/146.0.7680.16_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ackewru4a6gxhqczrjnzolzxesvq_146.0.7680.16/146.0.7680.16_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
-**最新版本**：146.0.7670.2  
-**文件大小**：364.63 MB  
-**校验值（Sha256）**：8645891b5027c5555ed45808c5ad115c9966ed266370a49dc9b6cc334ee2c37c  
-**下载链接**：[https://dl.google.com/release2/chrome/bhv4raltbzubmipevmuhyzboym_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/bhv4raltbzubmipevmuhyzboym_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7695.0  
+**文件大小**：363.39 MB  
+**校验值（Sha256）**：c970f2368697591d302bc444b7e6f2a7b262c8d0cd9d36efa03776a575e7a462  
+**下载链接**：[https://dl.google.com/release2/chrome/jbhwko3ezlecdivmubnuc5tyau_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jbhwko3ezlecdivmubnuc5tyau_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe)  
 
 ## win dev x64
-**最新版本**：146.0.7670.2  
-**文件大小**：445.38 MB  
-**校验值（Sha256）**：9d67288dc6319ac67feada7a9acce5ab77ec662dd23da74a4dd2ec307cfe054b  
-**下载链接**：[https://dl.google.com/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7695.0  
+**文件大小**：445.72 MB  
+**校验值（Sha256）**：428e2f6c4b75af7e52adce59a4dadb6a745b3dd01048d1b61189fed695b95a45  
+**下载链接**：[https://dl.google.com/release2/chrome/mritfhqpqrc2gzfqlfygkgv6hm_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/mritfhqpqrc2gzfqlfygkgv6hm_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
 **最新版本**：147.0.7697.0  
