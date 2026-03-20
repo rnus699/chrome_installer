@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-03-20 02:47:24 (UTC-4)
+2026-03-20 08:47:12 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/efornplmre45qqjvplsdsknzuq_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/efornplmre45qqjvplsdsknzuq_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：148.0.7742.0  
-**文件大小**：368.19 MB  
-**校验值（Sha256）**：1b23c1a44f3b5e6882c793296b26c71fa05c62205800c35f93db578a55ed9816  
-**下载链接**：[https://dl.google.com/release2/chrome/adrdvyszg6zwpjh7funr65wtdnka_148.0.7742.0/148.0.7742.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adrdvyszg6zwpjh7funr65wtdnka_148.0.7742.0/148.0.7742.0_chrome_installer_uncompressed.exe)  
+**最新版本**：148.0.7743.0  
+**文件大小**：369.27 MB  
+**校验值（Sha256）**：53f85d6c464cd34e5e2fe9694a424c622cf810ceaa17842d6b3cd81b8a212c99  
+**下载链接**：[https://dl.google.com/release2/chrome/ac3nhze6ehraaqtt2cjnnja643hq_148.0.7743.0/148.0.7743.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac3nhze6ehraaqtt2cjnnja643hq_148.0.7743.0/148.0.7743.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：148.0.7742.0  
-**文件大小**：449.23 MB  
-**校验值（Sha256）**：7489584119181d1f5024c89748e2d2216f217281b2b0b9d6095c599e00fe743f  
-**下载链接**：[https://dl.google.com/release2/chrome/adouilegtm6fegcumb5jsot6nkzq_148.0.7742.0/148.0.7742.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adouilegtm6fegcumb5jsot6nkzq_148.0.7742.0/148.0.7742.0_chrome_installer_uncompressed.exe)  
+**最新版本**：148.0.7743.1  
+**文件大小**：675.41 MB  
+**校验值（Sha256）**：6669add4de188c2572a76386af7a431005cdc154f7e1b2948dfa3ec691c69f98  
+**下载链接**：[https://dl.google.com/release2/chrome/acqnqiqxal4k33qaephs6j4qoupa_148.0.7743.1/148.0.7743.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acqnqiqxal4k33qaephs6j4qoupa_148.0.7743.1/148.0.7743.1_chrome_installer_uncompressed.exe)  
 
