@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-13 04:37:16 (UTC-4)
+2026-05-13 10:19:50 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/aduxt4qlm5daiw63qmdnc3d2mfja_150.0.7828.2/150.0.7828.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aduxt4qlm5daiw63qmdnc3d2mfja_150.0.7828.2/150.0.7828.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：150.0.7837.0  
-**文件大小**：377.56 MB  
-**校验值（Sha256）**：dae70059f1d6da755e5fdd097e5ca39543c1fc376583bec901042d170f5438c7  
-**下载链接**：[https://dl.google.com/release2/chrome/m2oeqwtwk3v3zcyqihymdxvqau_150.0.7837.0/150.0.7837.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/m2oeqwtwk3v3zcyqihymdxvqau_150.0.7837.0/150.0.7837.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7838.0  
+**文件大小**：377.53 MB  
+**校验值（Sha256）**：406374b669a86d7f7ec08093cfe2dfee16102a310a6f50f17bf1a415be554765  
+**下载链接**：[https://dl.google.com/release2/chrome/fuv25eymbek2g5ndtjc47dvmcm_150.0.7838.0/150.0.7838.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fuv25eymbek2g5ndtjc47dvmcm_150.0.7838.0/150.0.7838.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：150.0.7837.0  
-**文件大小**：461.08 MB  
-**校验值（Sha256）**：e312239830f293aa220eca421b1070c8cac2d7f5d999cd5cffb63f07dde0f610  
-**下载链接**：[https://dl.google.com/release2/chrome/gpxsdov3lh5b5fe2bjfiuikzei_150.0.7837.0/150.0.7837.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/gpxsdov3lh5b5fe2bjfiuikzei_150.0.7837.0/150.0.7837.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7838.0  
+**文件大小**：460.97 MB  
+**校验值（Sha256）**：12abeff64053c782c8157a5a20df163e8e4bdcb01eae4daffba20749bea650f5  
+**下载链接**：[https://dl.google.com/release2/chrome/baxqdf7xwv7g72zxbmlsqt2oiy_150.0.7838.0/150.0.7838.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/baxqdf7xwv7g72zxbmlsqt2oiy_150.0.7838.0/150.0.7838.0_chrome_installer_uncompressed.exe)  
 
