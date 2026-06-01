@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-31 23:30:12 (UTC-4)
+2026-06-01 07:21:05 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ac3uco5k6kyzuqejs7c2outhqk2q_150.0.7846.4/150.0.7846.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac3uco5k6kyzuqejs7c2outhqk2q_150.0.7846.4/150.0.7846.4_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：150.0.7868.0  
-**文件大小**：380.27 MB  
-**校验值（Sha256）**：c8cd7b6051915c7cee73b58f0ecfaa2f48f894a4010926a7a21e780279b3088b  
-**下载链接**：[https://dl.google.com/release2/chrome/advk3mffr22bhjxcphjnuh7jqn4a_150.0.7868.0/150.0.7868.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/advk3mffr22bhjxcphjnuh7jqn4a_150.0.7868.0/150.0.7868.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7869.0  
+**文件大小**：380.21 MB  
+**校验值（Sha256）**：76d898949abf7fc973ef5ab58875eac522c8dfa66ca48f8a792593c43b19921e  
+**下载链接**：[https://dl.google.com/release2/chrome/cx55ct7wgxjafvz4ba2f5ebzsq_150.0.7869.0/150.0.7869.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cx55ct7wgxjafvz4ba2f5ebzsq_150.0.7869.0/150.0.7869.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：150.0.7868.2  
+**最新版本**：150.0.7868.3  
 **文件大小**：697.58 MB  
-**校验值（Sha256）**：306bca9dc3fcd6e46bc15160e430f2973394b07b78e2f454ad606857ea11ae6f  
-**下载链接**：[https://dl.google.com/release2/chrome/adkn44cuqncscmivzranrjjw4vaq_150.0.7868.2/150.0.7868.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adkn44cuqncscmivzranrjjw4vaq_150.0.7868.2/150.0.7868.2_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：ad40dc3137f953c2b3f299e296854c25c8daa597d4f4e332713aa97f1e9e9678  
+**下载链接**：[https://dl.google.com/release2/chrome/ac4hgmrexq2qqj4f6wutxn3mr26a_150.0.7868.3/150.0.7868.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac4hgmrexq2qqj4f6wutxn3mr26a_150.0.7868.3/150.0.7868.3_chrome_installer_uncompressed.exe)  
 
