@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-06-15 23:33:03 (UTC-4)
+2026-06-16 07:00:56 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adyeitiphq4c6nqtnookcx7tzzsq_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adyeitiphq4c6nqtnookcx7tzzsq_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：151.0.7893.0  
-**文件大小**：384.91 MB  
-**校验值（Sha256）**：2507171f07e915767d4ee33c78cf3069e6f50991ddf1b5d3a710af1f8e16875b  
-**下载链接**：[https://dl.google.com/release2/chrome/lbqdrowykl5xt7fzu37kfhc6mq_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/lbqdrowykl5xt7fzu37kfhc6mq_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7894.0  
+**文件大小**：385.04 MB  
+**校验值（Sha256）**：054fc2ae1bb9a778690701630d8a7ef214cb4600d7d44daf7d7c4e9e01b46fa6  
+**下载链接**：[https://dl.google.com/release2/chrome/ac2fuman3xb5a3hrut6sr2v6ecsa_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac2fuman3xb5a3hrut6sr2v6ecsa_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：151.0.7893.0  
-**文件大小**：470.64 MB  
-**校验值（Sha256）**：c8c175caba505ace06e58b1ab510f94b932fe4fca1ffc1ee75cecee0eb692638  
-**下载链接**：[https://dl.google.com/release2/chrome/acs3jjs7yte4wu3fznfigdobjqhq_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acs3jjs7yte4wu3fznfigdobjqhq_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7894.0  
+**文件大小**：471.35 MB  
+**校验值（Sha256）**：54e454391574743b436f06215f690d4ee12a449270c2ef062dc22a853713e67e  
+**下载链接**：[https://dl.google.com/release2/chrome/cqnc5y7xfkt4uneexwqzvvlspu_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cqnc5y7xfkt4uneexwqzvvlspu_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe)  
 
