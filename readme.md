@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
 
 最后检测更新时间
-2026-10-27 23:37:11 (UTC-4)
+2026-10-28 07:58:06 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/md6tlwcgdz2x2mbshqeq3cmgui_158.0.8117.2/158.0.8117.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/md6tlwcgdz2x2mbshqeq3cmgui_158.0.8117.2/158.0.8117.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：158.0.8127.2  
-**文件大小**：439.76 MB  
-**校验值（Sha256）**：8499bc349e9f498b24d37108723d0f5b0795e424caca8c998c95020bb0449cda  
-**下载链接**：[https://dl.google.com/release2/chrome/dbi3pidv2kvcpeqk3ieaghpppq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dbi3pidv2kvcpeqk3ieaghpppq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe)  
+**最新版本**：159.0.8128.1  
+**文件大小**：595.09 MB  
+**校验值（Sha256）**：632a7e5fac15293662c2c04e0eb62688226c6834d9f143e8c6394f581192ea06  
+**下载链接**：[https://dl.google.com/release2/chrome/pan4bmjbk574eqr7la3zmivxgi_159.0.8128.1/159.0.8128.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pan4bmjbk574eqr7la3zmivxgi_159.0.8128.1/159.0.8128.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：158.0.8127.2  
+**最新版本**：158.0.8127.3  
 **文件大小**：511.63 MB  
-**校验值（Sha256）**：0b23375926b9f6de49a0f009dd374d6d9a7b900a507b62cfc4bec31db2fd12ca  
-**下载链接**：[https://dl.google.com/release2/chrome/adrq3lqg5rwloqfglq5vqkprdaqq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adrq3lqg5rwloqfglq5vqkprdaqq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：e228d95eb20cd24ec67f7e5cd714084b846249db51b8afebad4e965ca261a196  
+**下载链接**：[https://dl.google.com/release2/chrome/acrccxzmcc7h6etbni5fakwlpdfq_158.0.8127.3/158.0.8127.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acrccxzmcc7h6etbni5fakwlpdfq_158.0.8127.3/158.0.8127.3_chrome_installer_uncompressed.exe)  
 
